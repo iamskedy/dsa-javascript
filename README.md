@@ -1,64 +1,145 @@
-# DSA Journey: Intermediate Refresher Module
+# JavaScript DSA & Backend Engineering Portfolio
 
-Welcome to my DSA practice repository following the ** Intermediate Refresher** module.  
-This repo contains solutions and explanations for problems categorized by topic, with detailed README files and JavaScript solutions.
+This repository documents my journey to mastering **Data Structures, Algorithms, SQL, and Backend Engineering using JavaScript**.
 
----
-
-## 📚 Module Overview
-
-This module covers foundational concepts including:
-
-- Introduction to JavaScript (Input/Output, Data Types, Operators)
-- Conditional Statements (If-Else)
-- Loops (While & For)
-- Patterns
-- Functions
-- Arrays (1D & 2D)
-- ArrayLists
-- Strings & Hashing
-- Practice Tests
+The goal is to become a strong **Backend Engineer (Node.js)** capable of solving complex problems and designing scalable systems.
 
 ---
 
-## 🚀 Problem Index
+# What This Repository Contains
 
-| #   | Problem Topic                       | Folder Link                                                                                                               | Status             |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| 1   | Input/Output, Data Types, Operators | [01-input-output-data-types-operators](./01-refresher/01-introduction-to-javascript/01-input-output-data-types-operators) | In Progress / Done |
-| 2   | If-Else                             | [02-if-else](./01-refresher/01-introduction-to-javascript/02-if-else)                                                     | Pending            |
-| 3   | While & For Loops                   | [03-while-for-loops](./01-refresher/03-iteration/01-while-for-loops)                                                      | Pending            |
-| 4   | Lab Session: Loops                  | [04-loops](./01-refresher/04-lab-session/01-loops)                                                                        | Pending            |
-| 5   | Lab Session: Patterns               | [05-patterns](./01-refresher/04-lab-session/02-patterns)                                                                  | Pending            |
-| 6   | Functions                           | [06-functions](./01-refresher/05-functions)                                                                               | Pending            |
-| 7   | Arrays (1D & 2D)                    | [07-1d-2d-arrays](./01-refresher/06-arrays/01-1d-2d-arrays)                                                               | Pending            |
-| 8   | Lab Session: Arrays                 | [08-arrays](./01-refresher/04-lab-session/03-arrays)                                                                      | Pending            |
-| 9   | ArrayLists                          | [09-arraylists](./01-refresher/07-arraylists)                                                                             | Pending            |
-| 10  | Strings & Hashing                   | [10-strings-hashing](./01-refresher/08-strings-hashing)                                                                   | Pending            |
-| 11  | Lab Session: Strings & Hashing      | [11-strings-hashing-lab](./01-refresher/04-lab-session/04-strings-hashing)                                                | Pending            |
-| 12  | Practice Test                       | [12-practice-test](./01-refresher/09-practice-test)                                                                       | Pending            |
+• Structured solutions to DSA problems
+• Pattern-based problem solving (Sliding Window, Hashing, etc.)
+• SQL and database exercises
+• Backend Low Level Design notes
+• Time & Space complexity analysis
+• Video explanations on YouTube
 
 ---
 
-## 📺 YouTube Channel
+# Tech Stack
 
-I explain each problem and approach step-by-step on my YouTube channel:  
-[Your Channel Name](https://www.youtube.com/yourchannel)
-
-Feel free to subscribe and follow my coding journey!
-
----
-
-## 🤝 Contribution
-
-If you want to contribute, feel free to fork the repo and create pull requests with improvements or new solutions.
+Language: JavaScript
+Backend: Node.js
+Database: PostgreSQL / SQL
+Tools: Git, GitHub, VS Code
 
 ---
 
-## 📝 License
+# Learning Modules
 
-This project is licensed under the MIT License.
+| Module    | Topic                             | Status      |
+| --------- | --------------------------------- | ----------- |
+| Module 1  | JavaScript Refresher              | In Progress |
+| Module 2  | Intermediate Refresher            | Locked      |
+| Module 3  | Introduction to Problem Solving 1 | Locked      |
+| Module 4  | Introduction to Problem Solving 2 | Locked      |
+| Module 5  | Advanced DSA 1                    | Locked      |
+| Module 6  | Advanced DSA 2                    | Locked      |
+| Module 7  | Advanced DSA 3                    | Locked      |
+| Module 8  | Advanced DSA 4                    | Locked      |
+| Module 9  | Databases & SQL                   | Locked      |
+| Module 10 | Backend LLD and Development       | Locked      |
 
 ---
 
-_Happy Coding!_ 🚀
+# Repository Structure
+
+modules/
+├── 01-javascript-refresher
+├── 02-intermediate-refresher
+├── 03-problem-solving-1
+├── 04-problem-solving-2
+├── 05-advanced-dsa-1
+├── 06-advanced-dsa-2
+├── 07-advanced-dsa-3
+├── 08-advanced-dsa-4
+├── 09-databases-sql
+└── 10-backend-lld
+
+Each problem contains:
+
+problem-folder
+├── README.md
+└── solution.js
+
+---
+
+# Problem Index
+
+| Problem                                        | Pattern        | Difficulty | Solution |
+| ---------------------------------------------- | -------------- | ---------- | -------- |
+| Two Sum                                        | Hashing        | Easy       | Link     |
+| Longest Substring Without Repeating Characters | Sliding Window | Medium     | Link     |
+| Maximum Subarray                               | Kadane         | Medium     | Link     |
+
+---
+
+# Problem Solving Patterns
+
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Stack
+Queue
+Binary Search
+Recursion
+Trees
+Graphs
+Dynamic Programming
+
+---
+
+# SQL & Database Practice
+
+Topics Covered:
+
+• SQL Queries
+• Joins
+• Aggregations
+• Window Functions
+• Transactions
+
+---
+
+# YouTube Learning Series
+
+I explain selected problems and approaches on YouTube.
+
+Example:
+
+Two Sum Explanation — Link
+Sliding Window Technique — Link
+
+---
+
+# Progress Tracker
+
+Arrays —  / 40
+Strings —  / 35
+Hashing —  / 25
+Sliding Window —  / 20
+Trees —  / 50
+Graphs —  / 40
+
+---
+
+# Learning Philosophy
+
+Every problem in this repository follows this approach:
+
+1. Understand the problem
+2. Identify the algorithmic pattern
+3. Optimize time complexity
+4. Implement solution
+5. Document explanation
+
+---
+
+# Goal
+
+Solve **300+ problems** covering all major algorithmic patterns and build strong backend problem solving ability.
+
+---
